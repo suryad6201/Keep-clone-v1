@@ -1,3 +1,4 @@
+Hi there..! I've tried to make a keep note app. Currently I've implemented the front-end. Later I'll implement the databases for saving the notes.
 Kindly visit the firebase link to view the app. Thanks.
 Firebase: https://keep-clone-ba628.web.app/
 
